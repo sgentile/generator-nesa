@@ -8,4 +8,4 @@ Todo: will be creating more options as well as some sub generators.
 
 Notes: designed to be used with yeoman angular-generator (from the client folder)
 
-Install: npm install -g generator-angular  
+Install: npm install -g generator-nesa  

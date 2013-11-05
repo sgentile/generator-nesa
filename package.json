@@ -1,9 +1,14 @@
 {
   "name": "generator-nesa",
-  "version": "0.0.0",
-  "description": "A generator for Yeoman",
+  "version": "0.0.2",
+  "description": "NESA - NodeExpressSocketIOAngular Project Generator",
   "keywords": [
-    "yeoman-generator"
+    "yeoman-generator",
+    "generator-nesa",
+    "Node",
+    "Express",
+    "SocketIO",
+    "AngularJS"
   ],
   "homepage": "https://github.com/sgentile/generator-nesa",
   "bugs": "https://github.com/sgentile/generator-nesa/issues",
